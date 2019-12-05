@@ -13,3 +13,5 @@ Adding description
 Git diff tool. 
 
 hi.
+
+STAGED hi
