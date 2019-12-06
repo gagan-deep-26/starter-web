@@ -12,6 +12,8 @@ Adding description
 
 Git diff tool. 
 
+###Copyright
+
 hi.
 
 STAGED hi
