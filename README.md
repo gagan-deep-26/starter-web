@@ -19,3 +19,5 @@ hi.
 STAGED hi
 
 Automatic merges. 
+
+Without merges. 
