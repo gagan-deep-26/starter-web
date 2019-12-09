@@ -17,3 +17,5 @@ Git diff tool.
 hi.
 
 STAGED hi
+
+Automatic merges. 

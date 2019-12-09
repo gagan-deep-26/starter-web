@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> Gagan Deep G<role> -- <twitter>
 
 # THANKS
 
